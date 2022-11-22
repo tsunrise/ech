@@ -56,4 +56,4 @@ ech stop my-server
 
 That's it. 
 
-*I used this tool quite often in my personal study/work, but this tool may/should still have bugs. If so please submit an issue. Thanks!*
+*I am using this tool quite often in my personal study/work, but this tool may/should still have bugs. If so please submit an issue. Thanks!*

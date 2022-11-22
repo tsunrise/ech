@@ -3,7 +3,7 @@ name = "ech"
 version = "0.1.1"
 authors = [{name = "Tom Shen", email = "me@tomshen.io"}]
 requires-python = ">=3.7"
-description = "AWS EC2 Manager"
+description = "Yet another simple AWS EC2 Tools"
 readme = "README.md"
 
 dependencies = [
