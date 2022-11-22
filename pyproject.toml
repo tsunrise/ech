@@ -1,0 +1,14 @@
+[project]
+name = "ech"
+version = "0.1.0"
+authors = [{name = "Tom Shen", email = "me@tomshen.io"}]
+
+dependencies = [
+    "sshconf",
+    "boto3",
+    "toml",
+    "colorama"
+]
+
+[project.scripts]
+ech = "ech:main"
